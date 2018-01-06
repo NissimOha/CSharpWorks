@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Customer]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Customer].[CstomerId] is being dropped, data loss could occur.
+
+** User actions
+     Table rebuild
+       [dbo].[Customer] (Table)
+     Create
+       [dbo].[Customer].[IX_Customer_LastName] (Index)
+     Alter
+       [dbo].[CustomerType] (Table)
+       [dbo].[CusomerRetrive] (Procedure)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_Customer_CustomerType] (Foreign Key)
+     Create
+       [dbo].[FK_Customer_CustomerType] (Foreign Key)
+
+The column [dbo].[Customer].[CstomerId] is being dropped, data loss could occur.
+

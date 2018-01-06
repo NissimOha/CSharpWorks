@@ -1,0 +1,8 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\DataBase\DB Project\AcmeCustomerManagment\ACM.Main\bin\Debug\ACM.Main.exe.config
+C:\Users\NISSIMOHAYON\Documents\Proggreming\DataBase\DB Project\AcmeCustomerManagment\ACM.Main\bin\Debug\ACM.Main.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\DataBase\DB Project\AcmeCustomerManagment\ACM.Main\bin\Debug\ACM.Main.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\DataBase\DB Project\AcmeCustomerManagment\ACM.Main\obj\Debug\ACM.Main.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\DataBase\DB Project\AcmeCustomerManagment\ACM.Main\obj\Debug\ACM.Main.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\DataBase\DB Project\AcmeCustomerManagment\ACM.Main\obj\Debug\ACM.Main.csprojResolveAssemblyReference.cache
+C:\Users\NISSIMOHAYON\Documents\Proggreming\DataBase\DB Project\AcmeCustomerManagment\ACM.Main\bin\Debug\ACM.BL.dll
+C:\Users\NISSIMOHAYON\Documents\Proggreming\DataBase\DB Project\AcmeCustomerManagment\ACM.Main\bin\Debug\ACM.BL.pdb

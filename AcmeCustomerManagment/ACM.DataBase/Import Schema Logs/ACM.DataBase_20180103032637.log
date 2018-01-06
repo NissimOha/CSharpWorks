@@ -1,0 +1,83 @@
+03/01/2018 17:26:37	This log contains information about the import schema operation into project 'ACM.DataBase' on computer 'NISSIM' by user 'NISSIMOHAYON'.
+03/01/2018 17:26:37	Import of database schema has started.
+03/01/2018 17:26:44	Gathering database options
+03/01/2018 17:26:44	Gathering users
+03/01/2018 17:26:44	Gathering roles
+03/01/2018 17:26:44	Gathering application roles
+03/01/2018 17:26:44	Gathering role memberships
+03/01/2018 17:26:44	Gathering filegroups
+03/01/2018 17:26:44	Gathering full-text catalogs
+03/01/2018 17:26:44	Gathering assemblies
+03/01/2018 17:26:44	Gathering certificates
+03/01/2018 17:26:44	Gathering asymmetric keys
+03/01/2018 17:26:44	Gathering symmetric keys
+03/01/2018 17:26:44	Gathering encrypted symmetric keys
+03/01/2018 17:26:44	Gathering schemas
+03/01/2018 17:26:44	Gathering XML schema collections
+03/01/2018 17:26:44	Gathering user-defined data types
+03/01/2018 17:26:44	Gathering user-defined types
+03/01/2018 17:26:44	Gathering table types
+03/01/2018 17:26:44	Gathering unique keys for table types
+03/01/2018 17:26:44	Gathering primary keys for table types
+03/01/2018 17:26:44	Gathering indexes for table types
+03/01/2018 17:26:44	Gathering check constraints for table types
+03/01/2018 17:26:44	Gathering default constraints for table types
+03/01/2018 17:26:44	Gathering partition functions
+03/01/2018 17:26:44	Gathering partition schemes
+03/01/2018 17:26:44	Gathering functions
+03/01/2018 17:26:44	Gathering encrypted functions
+03/01/2018 17:26:44	Gathering aggregates
+03/01/2018 17:26:44	Gathering procedures
+03/01/2018 17:26:44	Gathering encrypted procedures
+03/01/2018 17:26:44	Gathering tables
+03/01/2018 17:26:44	Gathering primary keys
+03/01/2018 17:26:44	Gathering unique constraints
+03/01/2018 17:26:44	Gathering foreign keys
+03/01/2018 17:26:44	Gathering default constraints
+03/01/2018 17:26:44	Gathering check constraints
+03/01/2018 17:26:44	Gathering views
+03/01/2018 17:26:44	Gathering encrypted views
+03/01/2018 17:26:44	Gathering indexes
+03/01/2018 17:26:44	Gathering statistics
+03/01/2018 17:26:44	Gathering full-text index stoplists
+03/01/2018 17:26:44	Gathering search property lists
+03/01/2018 17:26:44	Gathering search properties
+03/01/2018 17:26:44	Gathering full-text indexes
+03/01/2018 17:26:44	Gathering column store indexes
+03/01/2018 17:26:44	Gathering spatial indexes
+03/01/2018 17:26:44	Gathering XML indexes
+03/01/2018 17:26:44	Gathering Selective XML indexes
+03/01/2018 17:26:44	Gathering encrypted triggers
+03/01/2018 17:26:44	Gathering triggers
+03/01/2018 17:26:44	Gathering encrypted and clr ddl triggers
+03/01/2018 17:26:44	Gathering ddl triggers
+03/01/2018 17:26:44	Gathering synonyms
+03/01/2018 17:26:44	Gathering defaults
+03/01/2018 17:26:45	Gathering data constraint uddt bindings
+03/01/2018 17:26:45	Gathering rules
+03/01/2018 17:26:45	Gathering data constraint uddt bindings
+03/01/2018 17:26:45	Gathering message types
+03/01/2018 17:26:45	Gathering queues
+03/01/2018 17:26:45	Gathering contracts
+03/01/2018 17:26:45	Gathering services
+03/01/2018 17:26:45	Gathering event notifications
+03/01/2018 17:26:45	Gathering remote service bindings
+03/01/2018 17:26:45	Gathering broker priorities
+03/01/2018 17:26:45	Gathering signatures
+03/01/2018 17:26:45	Gathering data compression options
+03/01/2018 17:26:45	Gathering sequence types
+03/01/2018 17:26:45	Gathering security policies
+03/01/2018 17:26:45	Gather column encryption keys
+03/01/2018 17:26:45	Gathering column master keys
+03/01/2018 17:26:45	Gathering external data sources
+03/01/2018 17:26:45	Gathering external file formats
+03/01/2018 17:26:45	Gathering external tables
+03/01/2018 17:26:45	Gathering extended properties
+03/01/2018 17:26:45	Gathering credentials
+03/01/2018 17:26:45	Gathering logins
+03/01/2018 17:26:45	Gathering server audits
+03/01/2018 17:26:45	Scanning project for duplicate elements
+03/01/2018 17:26:45	Finished duplicate element processing
+03/01/2018 17:26:45	Finished importing database.
+03/01/2018 17:26:45	A summary of the import was saved to the following location: C:\Users\NISSIMOHAYON\Documents\Proggreming\DataBase\DB Project\AcmeCustomerManagment\ACM.DataBase\Import Schema Logs\ACM.DataBase_20180103032637.log
+03/01/2018 17:26:45	Click Finish to continue...
